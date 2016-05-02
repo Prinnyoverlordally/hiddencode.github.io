@@ -4,6 +4,7 @@
 
 body {
 background: url(../Images/paper.jpg) repeat;
+background-attachment: fixed;
 }
 body,td,th {
 	color: #FFFFFF;
