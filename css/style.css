@@ -3,8 +3,9 @@
 
 
 body {
-background: url(../Images/paper.jpg) auto;
+background: url(../Images/paper.jpg);
 background-attachment: fixed;
+background-size: auto;
 }
 body,td,th {
 	color: #FFFFFF;
