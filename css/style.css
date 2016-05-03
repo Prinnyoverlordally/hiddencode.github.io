@@ -5,6 +5,10 @@
 body {
 background: url(../Images/paper.jpg);
 background-attachment: fixed;
+    margin: 0;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 body,td,th {
 	color: #FFFFFF;
