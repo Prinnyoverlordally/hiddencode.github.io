@@ -3,7 +3,7 @@
 
 
 body {
-background: url(../Images/paper.jpg) repeat;
+background: url(../Images/paper.jpg) auto;
 background-attachment: fixed;
 }
 body,td,th {
