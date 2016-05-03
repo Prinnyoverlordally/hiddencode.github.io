@@ -5,8 +5,6 @@
 body {
 background: url(../Images/paper.jpg);
 background-attachment: fixed;
-background-repeat: no-repeat;
-background-size: auto;
 }
 body,td,th {
 	color: #FFFFFF;
